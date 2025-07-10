@@ -58,6 +58,7 @@ This project is focused on gaining hands-on experience with drone hardware, flig
 
 ## 📸 Media
 
+![Drone photo](תמונה של WhatsApp‏ 2025-07-10 בשעה 16.59.55_798efb77.jpg)
 A gallery of build photos and flight footage will be added here soon.
 
 ---
