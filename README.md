@@ -1,3 +1,5 @@
+5c01718b-3440-46e0-8514-f7edb8858619.png
+![Drone Banner](A_banner_image_for_an_FPV_(First-Person_View)_raci.png)
 # skyblazer-drone
 DIY FPV Racing Drone built from scratch in Acro mode. Full project documentation, components, and future AI-based upgrades.
 
